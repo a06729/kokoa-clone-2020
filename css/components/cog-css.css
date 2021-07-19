@@ -1,0 +1,16 @@
+.cog-css{
+    display: inline-block;
+    position: relative;
+}
+.cog-css__dot{
+    display: flex;
+    background-color: tomato;
+    justify-content: center;
+    align-items: center;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
